@@ -1,1 +1,1 @@
-# Lab3-OOp
+# Lab3-OOP (var 24)
